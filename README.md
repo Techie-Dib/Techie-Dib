@@ -27,7 +27,7 @@ Sql
 - Loves to read books and gain knowledges from other aspects of techologies
 - Loves being curious most of the time
 # Stats 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Techie-Dib
+![Github stats](https://github-readme-stats.vercel.app/api?username=Techie-Dib)
 # Social media links 
 You can find me here :
 
