@@ -1,8 +1,6 @@
 # Hello There ~ :wave: 
-<!--
-**Techie-Dib/Techie-Dib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some default informations required to get started:
 
 - 🔭 I’m currently working on ... being efficient as a student
 - 🌱 I’m currently learning ... Kotlin for Android development
@@ -12,7 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: (Techie-Dib) on GitHub search bar, you can check my other links too via the README.md file
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Affinity for developing
--->
 ### About me 
 Myself **Dib Kalita** `(aka Techie)`, a fellow coder who is interested in building and testing various softwares and packages for ease of
 work and enhancing the qualities of a particular project at a time.
