@@ -24,7 +24,7 @@ Sql
 # Other Interests 
 - A true science lover, admires its vast conceptual world
 - Kind of a sports freak :p
-- Loves to read books and gain knowledges from other aspects of techologies
+- Loves to read books and gain knowledge from other aspects of techologies
 - Loves being curious most of the time
 # Stats 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Techie-Dib)
