@@ -28,7 +28,7 @@ Sql
 - Loves being curious most of the time
 # Stats 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Techie-Dib&theme=merko)
-#Language usage
+# Language usage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Techie-Dib)](https://github.com/Techie-Dib/github-readme-stats)
 # Social media links 
 You can find me here :
