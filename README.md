@@ -2,11 +2,10 @@
 
 Here are some default informations required to get started:
 
-- 🔭 I’m currently working on ... being efficient as a student
-- 🌱 I’m currently learning ... Kotlin for Android development
-- 👯 I’m looking to collaborate on ... sites like GitHub,Gitlab,etc.
-- 🤔 I’m looking for help with ... nothing right now
-- 💬 Ask me about ... anything
+- 🔭 I’m currently working on being efficient as a student
+- 🌱 I’m currently learning Kotlin for Android development,Python for packages building and Java for fun
+- 👯 I’m looking to collaborate on sites like GitHub,Gitlab,etc.
+- 💬 Ask me about anything(but not too personal)
 - 📫 How to reach me: (Techie-Dib) on GitHub search bar, you can check my other links too via the README.md file
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Affinity for developing
